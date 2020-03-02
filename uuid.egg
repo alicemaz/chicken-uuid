@@ -1,0 +1,6 @@
+((synopsis "native chicken uuid library")
+ (license "BSD")
+ (category crypt)
+ (maintainer "Alice Maz")
+ (author "Alice Maz")
+ (components (extension uuid (source "uuid.scm"))))

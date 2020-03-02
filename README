@@ -1,0 +1,9 @@
+uuid library for chicken scheme
+unapologetically only supports lowercase v4 uuids
+no dependencies
+
+exports two functions:
+* uuid : string
+  generates a new v4 uuid string
+* uuid? : string -> bool
+  returns #t if given a valid lowercase v4 uuid string
