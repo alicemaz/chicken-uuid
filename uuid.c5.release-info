@@ -1,4 +1,4 @@
 (repo git "git://github.com/alicemaz/chicken-uuid.git")
-(uri targz "https://github.com/alicemaz/chicken-uuid/tarball/{egg-release}")
+(uri targz "https://github.com/alicemaz/chicken-uuid/archive/{egg-release}.tar.gz")
 
 (release "0.1")
